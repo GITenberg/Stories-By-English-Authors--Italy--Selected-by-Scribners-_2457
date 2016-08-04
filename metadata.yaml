@@ -1,0 +1,62 @@
+_repo: Stories-By-English-Authors--Italy--Selected-by-Scribners-_2457
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Norris, W. E. (William Edward)
+    alias: Norris, William Edward
+    birthdate: 1847
+    deathdate: 1925
+    gutenberg_agent_id: '6224'
+    url: http://www.gutenberg.org/2009/agents/6224
+    wikipedia: http://en.wikipedia.org/wiki/William_Edward_Norris
+  - agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+  - agent_name: Oliphant, Laurence
+    alias: Oliphant, Lawrence
+    birthdate: 1829
+    deathdate: 1888
+    gutenberg_agent_id: '6222'
+    url: http://www.gutenberg.org/2009/agents/6222
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Oliphant_%28author%29
+  - agent_name: Robinson, A. Mary F. (Agnes Mary Frances)
+    aliases:
+    - Robinson, Mary
+    - Robinson, Agnes Mary Frances
+    - Duclaux, Mary
+    - Darmesteter, Mary
+    - Duclaux, Agnes Mary Frances Robinson
+    birthdate: 1857
+    deathdate: 1944
+    gutenberg_agent_id: '6223'
+    url: http://www.gutenberg.org/2009/agents/6223
+    wikipedia: http://en.wikipedia.org/wiki/Agnes_Mary_Frances_Duclaux
+  - agent_name: Payn, James
+    birthdate: 1830
+    deathdate: 1898
+    gutenberg_agent_id: '4707'
+    url: http://www.gutenberg.org/2009/agents/4707
+    wikipedia: http://en.wikipedia.org/wiki/James_Payn
+description: ''
+gutenberg_issued: '2006-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Italy -- Fiction'
+- GITenberg
+tableOfContents: 'A faithful retainer, by James Payn -- Bianca, by W.E. Norris --
+  Goneril, by A. Mary F. Robinson -- The brigand''s bride: a tale of southern Italy,
+  by Laurence Oliphant -- Mrs. General Talboys, by Anthony Trollope.'
+title: 'Stories By English Authors: Italy (Selected by Scribners)'
+url: http://www.gutenberg.org/ebooks/2457
