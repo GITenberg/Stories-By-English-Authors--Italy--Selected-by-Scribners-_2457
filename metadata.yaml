@@ -1,5 +1,5 @@
 _repo: Stories-By-English-Authors--Italy--Selected-by-Scribners-_2457
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Norris, W. E. (William Edward)
@@ -40,7 +40,12 @@ contributor:
     gutenberg_agent_id: '4707'
     url: http://www.gutenberg.org/2009/agents/4707
     wikipedia: http://en.wikipedia.org/wiki/James_Payn
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2457#Stories-By-English-Authors--Italy--Selected-by-Scribners-
 gutenberg_issued: '2006-04-04'
 gutenberg_type: Text
 identifiers:
